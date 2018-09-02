@@ -7,7 +7,7 @@ package java9platonovmarianclasswork;
 
 /**
  *
- * @author Marian
+ * @author Marian Platonov
  */
 public class Java9PlatonovMarianClassWork {
 
@@ -15,7 +15,7 @@ public class Java9PlatonovMarianClassWork {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hi my friend!");
     }
     
 }
